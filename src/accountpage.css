@@ -1,0 +1,33 @@
+body {
+	background-color: black;
+}
+#main_frame{
+	position: absolute;
+	border: 7px double purple;
+	left: 0%;
+	right: 0%;
+	top: 75px;
+	margin: auto;
+	min-height: 1000px;
+}
+#profile_pic{
+	border: 7px double purple;
+	width: 90%;
+	padding-top: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 5%;
+}
+.sect{
+	border: 7px double purple;
+	width: 90%;
+	height: auto;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 5%;
+}
+.sect_header{
+	width: 100%;
+	height: 30px;
+	background-color: purple;
+}
